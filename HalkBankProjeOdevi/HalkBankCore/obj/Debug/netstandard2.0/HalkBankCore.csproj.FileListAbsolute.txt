@@ -1,0 +1,10 @@
+C:\Gizem\.Net\hb_calismalar-main\hb_calismalar-main\HalkBankProjeOdevi\HalkBankCore\bin\Debug\netstandard2.0\HalkBankCore.deps.json
+C:\Gizem\.Net\hb_calismalar-main\hb_calismalar-main\HalkBankProjeOdevi\HalkBankCore\bin\Debug\netstandard2.0\HalkBankCore.dll
+C:\Gizem\.Net\hb_calismalar-main\hb_calismalar-main\HalkBankProjeOdevi\HalkBankCore\bin\Debug\netstandard2.0\HalkBankCore.pdb
+C:\Gizem\.Net\hb_calismalar-main\hb_calismalar-main\HalkBankProjeOdevi\HalkBankCore\obj\Debug\netstandard2.0\HalkBankCore.csproj.AssemblyReference.cache
+C:\Gizem\.Net\hb_calismalar-main\hb_calismalar-main\HalkBankProjeOdevi\HalkBankCore\obj\Debug\netstandard2.0\HalkBankCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gizem\.Net\hb_calismalar-main\hb_calismalar-main\HalkBankProjeOdevi\HalkBankCore\obj\Debug\netstandard2.0\HalkBankCore.AssemblyInfoInputs.cache
+C:\Gizem\.Net\hb_calismalar-main\hb_calismalar-main\HalkBankProjeOdevi\HalkBankCore\obj\Debug\netstandard2.0\HalkBankCore.AssemblyInfo.cs
+C:\Gizem\.Net\hb_calismalar-main\hb_calismalar-main\HalkBankProjeOdevi\HalkBankCore\obj\Debug\netstandard2.0\HalkBankCore.csproj.CoreCompileInputs.cache
+C:\Gizem\.Net\hb_calismalar-main\hb_calismalar-main\HalkBankProjeOdevi\HalkBankCore\obj\Debug\netstandard2.0\HalkBankCore.dll
+C:\Gizem\.Net\hb_calismalar-main\hb_calismalar-main\HalkBankProjeOdevi\HalkBankCore\obj\Debug\netstandard2.0\HalkBankCore.pdb

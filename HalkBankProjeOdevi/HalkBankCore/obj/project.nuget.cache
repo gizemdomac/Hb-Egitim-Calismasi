@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CW6RJjI1nFSrQUaweC2oo0FhAUKXJa0EgKdXvFEY/HJrtNS5q/56UNE05qC9djFvYRt+Ks0a/c4njxcRxP+0gg==",
+  "success": true,
+  "projectFilePath": "C:\\Gizem\\.Net\\hb_calismalar-main\\hb_calismalar-main\\HalkBankProjeOdevi\\HalkBankCore\\HalkBankCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gizem\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Gizem\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
